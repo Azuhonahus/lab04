@@ -1,0 +1,9 @@
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/CMakeFiles/main.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/CMakeFiles/edit_cache.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/CMakeFiles/rebuild_cache.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/solver_lib/CMakeFiles/solver_lib.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/solver_lib/CMakeFiles/edit_cache.dir
+/Users/aleksandrnikonorov/Azuhonahus/workspace/tasks/lab03/solver_application/build/solver_lib/CMakeFiles/rebuild_cache.dir
